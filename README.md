@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hello! 👋
+- 🧑 Jacob Nicholls-Smart.
+- 🦘 Australian Game Developer
 
-<!--
-**KeynDev/KeynDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧭 Github is currently under construction at this current stage 
+- 👁️ Currently Studying Bachelors Degree of Game Design and Development
 
-Here are some ideas to get you started:
+## Notable Projects 
+- 🚧 WIP (Will update eventually)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Qualifications
+- 📙 Diploma - Digital & Interactive Games
+- 📗 Certificate IV - Digital & Interactive Games 
+- 📘 Certificate III - Information & Digital Technology
+
+## Ways to Contact
+- [jacobnichollssmart@gmail.com](jacobnichollssmart@gmail.com) by Email
+- [@SirNicholls](https://instagram.com/sirnicholls) on Instagram
+- [@KeynDev](https://twitter.com/KeynDev) on Twitter
+- [Keyn#2686](./) on Discord

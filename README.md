@@ -9,7 +9,6 @@
 
 ## Qualifications
 - 👁️ Currently Studying Bachelors Degree of Game Design and Development
-
 - 📙 Diploma - Digital & Interactive Games
 - 📗 Certificate IV - Digital & Interactive Games 
 - 📘 Certificate III - Information & Digital Technology

@@ -1,11 +1,11 @@
-## Hello! 👋
+## G'Day! 
 - 🧑 Jacob Nicholls-Smart.
 - 🦘 Australian Game Developer
 
 - 🧭 Github is currently under construction at this current stage 
 
 ## Notable Projects 
-- 🚧 WIP (Will update eventually)
+- 🚧 WIP
 
 ## Qualifications
 - 👁️ Currently Studying Bachelors Degree of Game Design and Development

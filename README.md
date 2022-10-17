@@ -1,7 +1,5 @@
-## G'Day! 
+## Introduction
 - 🧑 Jacob Nicholls-Smart.
-- 🦘 Australian Game Developer
-
 - 🧭 Github is currently under construction at this current stage 
 
 ## Notable Projects 
@@ -15,6 +13,4 @@
 
 ## Ways to Contact
 - [jacobnichollssmart@gmail.com](jacobnichollssmart@gmail.com) by Email
-- [@SirNicholls](https://instagram.com/sirnicholls) on Instagram
-- [@KeynDev](https://twitter.com/KeynDev) on Twitter
 - [Keyn#2686](./) on Discord

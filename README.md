@@ -1,7 +1,6 @@
 # Jacob Nicholls-Smart
 
-Junior Independant web developer and  game developer based in Sydney, Australia.  
-I build websites and tinker with games — currently working on a few things I'm pretty excited about.
+Junior Independant web developer and  game developer based in Sydney, Australia.
 
 ---
 

@@ -8,14 +8,13 @@ Junior Independant web developer and  game developer based in Sydney, Australia.
 
 | Project | Status | Description |
 |---|---|---|
-| Coast To Coast Goats | 🚧 WIP | Commercial website for an Australian goat grazing business |
+| Coast To Coast Goats | WIP | Commercial website for an Australian goat grazing business |
 
 ---
 
 ## 🎓 Qualifications
 
 | | |
-|---|---|
 | 🎓 | Bachelor of Game Design & Development |
 | 📜 | Diploma — Digital & Interactive Games |
 | 📜 | Certificate IV — Digital & Interactive Games |

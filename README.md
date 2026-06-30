@@ -1,32 +1,31 @@
 # Jacob Nicholls-Smart
 
-Junior Independant web developer and  game developer based in Sydney, Australia.
+🟣 Independant Web Developer &nbsp;·&nbsp; 🩷 Hobby Game Developer &nbsp;·&nbsp; 🌏 Sydney, AU
 
 ---
 
-## 🎮 commercial Projects
+### Projects
 
-| Project | Status | Description |
+| 🟣 | Project | Status |
 |---|---|---|
-| Coast To Coast Goats | WIP | Commercial website for an Australian goat grazing business |
+| | Coast To Coast Goats | 🚧 In Progress |
 
 ---
 
-## 🎓 Qualifications
+### Qualifications
 
-| | |
-| 🎓 | Bachelor of Game Design & Development |
-| 📜 | Diploma — Digital & Interactive Games |
-| 📜 | Certificate IV — Digital & Interactive Games |
-| 📜 | Certificate III — Information & Digital Technology |
-
----
-
-## 📬 Get In Touch
-
-- **Email:** [jacobnichollssmart@gmail.com](mailto:jacobnichollssmart@gmail.com)
-- **Discord:** Dromai
+🤍 &nbsp;**Bachelor of Game Design & Development**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Macquarie University*  
+🩷 &nbsp;**Diploma — Digital & Interactive Games**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*TAFE NSW*  
+❤️ &nbsp;**Certificate IV — Digital & Interactive Games**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*TAFE NSW*  
+💜 &nbsp;**Certificate III — Information & Digital Technology**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Lisarow High School*  
 
 ---
 
-*Sydney, AU · AEST (UTC+10)*
+### Contact
+
+💌 &nbsp;[jacobnichollssmart@gmail.com](mailto:jacobnichollssmart@gmail.com)  
+🎮 &nbsp;Discord — Dromai

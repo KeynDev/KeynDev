@@ -1,6 +1,6 @@
 # Jacob Nicholls-Smart
 
-🟣 Independant Web Developer &nbsp;·&nbsp; 🩷 Hobby Game Developer &nbsp;·&nbsp; 🌏 Sydney, AU
+🟣 Independent Web Developer &nbsp;·&nbsp; 🩷 Hobby Game Developer &nbsp;·&nbsp; 🌏 Sydney, AU
 
 ---
 
@@ -14,13 +14,13 @@
 
 ### Qualifications
 
-🤍 &nbsp;**Bachelor of Game Design & Development**  
+🤍 &nbsp;**Bachelor - Game Design & Development**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Macquarie University*  
-🩷 &nbsp;**Diploma — Digital & Interactive Games**  
+🩷 &nbsp;**Diploma - Digital & Interactive Games**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*TAFE NSW*  
-❤️ &nbsp;**Certificate IV — Digital & Interactive Games**  
+❤️ &nbsp;**Certificate IV - Digital & Interactive Games**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*TAFE NSW*  
-💜 &nbsp;**Certificate III — Information & Digital Technology**  
+💜 &nbsp;**Certificate III - Information & Digital Technology**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Lisarow High School*  
 
 ---
